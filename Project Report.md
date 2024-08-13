@@ -1,8 +1,8 @@
 # CODTECH-task1
-Amazon Sales Dataset EDA
-Dataset Columns Names
+Project Title:Perfoming EDA in Amazon Sales dataset
+Dataset Columns Names:-
 This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon
-Features
+                                        Features
 product_id - Product ID
 product_name - Name of the Product
 category - Category of the Product
@@ -31,7 +31,7 @@ Translate insights into actionable recommendations that optimize product develop
 Equip businesses with the knowledge to create products that cater to evolving consumer needs and desires.
 Craft communication strategies that resonate with specific demographics and maximize engagement.
 Facilitate a marketplace where products find their perfect match in the hearts of consumers.
-                                        mport Libraries
+                                        Import Libraries
 
 We will use the following libraries
 1. Pandas: Data manipulation and analysis
@@ -39,7 +39,7 @@ We will use the following libraries
 3. Matplotlib: Data visualization and plotting
 4. Seaborn: Enhanced data visualization and statistical graphics
 5. Scipy: Scientific computing and advanced mathematical operations
-   Processes:-
+           Processes:-
    Data Loading and Exploration | Cleaning
    Load a CSV file then creating a dataframe
    Changing Data Types of Columns from object to float
@@ -47,7 +47,7 @@ We will use the following libraries
    Dealing with the missing values
    Plot the missing values by percentage
    Find Duplications and Analyse them
-   Data Visualization:
+           Data Visualization:
        1. Scatterplot
        2. Histogram
        3. Heatmap
